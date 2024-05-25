@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  #pomodoro-box {
+    background-color: #4e6d9c;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .pomodoro-time{
+    width:70vh;
+    height:50vh;
+    z-index:1;
+    background-color: rgba(35, 27, 27, 1);
+    color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.4),
+    0px 7px 13px -3px rgba(0,0,0,0.3),
+    0px -3px 0px 0px rgba(0,0,0,0.2) inset;
+  }
+  #my-time{
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 70px;
+    font-style:normal;
+    font-stretch: expanded;
+  }
+  #running-time{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+  } 
+  .restart, .stop{
+    margin:2px;
+    padding:10px;
+    color:rgb(255, 255, 255);
+    width:100px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: #000000;
+  }
+}
