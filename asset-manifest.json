@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Front_End_Projects/timerApp_react/static/css/main.b0b09a5b.css",
-    "main.js": "/Front_End_Projects/timerApp_react/static/js/main.252e849d.js",
-    "static/js/787.880c8b13.chunk.js": "/Front_End_Projects/timerApp_react/static/js/787.880c8b13.chunk.js",
-    "index.html": "/Front_End_Projects/timerApp_react/index.html",
-    "main.b0b09a5b.css.map": "/Front_End_Projects/timerApp_react/static/css/main.b0b09a5b.css.map",
-    "main.252e849d.js.map": "/Front_End_Projects/timerApp_react/static/js/main.252e849d.js.map",
-    "787.880c8b13.chunk.js.map": "/Front_End_Projects/timerApp_react/static/js/787.880c8b13.chunk.js.map"
+    "main.css": "/Front_End_Projects/25_5_clock/static/css/main.8da80771.css",
+    "main.js": "/Front_End_Projects/25_5_clock/static/js/main.c887653f.js",
+    "static/js/787.93cfc5bb.chunk.js": "/Front_End_Projects/25_5_clock/static/js/787.93cfc5bb.chunk.js",
+    "static/media/background.jpg": "/Front_End_Projects/25_5_clock/static/media/background.9a64adcc96db4f252e1f.jpg",
+    "index.html": "/Front_End_Projects/25_5_clock/index.html",
+    "main.8da80771.css.map": "/Front_End_Projects/25_5_clock/static/css/main.8da80771.css.map",
+    "main.c887653f.js.map": "/Front_End_Projects/25_5_clock/static/js/main.c887653f.js.map",
+    "787.93cfc5bb.chunk.js.map": "/Front_End_Projects/25_5_clock/static/js/787.93cfc5bb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0b09a5b.css",
-    "static/js/main.252e849d.js"
+    "static/css/main.8da80771.css",
+    "static/js/main.c887653f.js"
   ]
 }
