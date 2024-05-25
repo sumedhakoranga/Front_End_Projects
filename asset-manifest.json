@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Front_End_Projects/timerApp_react/static/css/main.b0b09a5b.css",
-    "main.js": "/Front_End_Projects/timerApp_react/static/js/main.d7a18f73.js",
+    "main.js": "/Front_End_Projects/timerApp_react/static/js/main.252e849d.js",
     "static/js/787.880c8b13.chunk.js": "/Front_End_Projects/timerApp_react/static/js/787.880c8b13.chunk.js",
     "index.html": "/Front_End_Projects/timerApp_react/index.html",
     "main.b0b09a5b.css.map": "/Front_End_Projects/timerApp_react/static/css/main.b0b09a5b.css.map",
-    "main.d7a18f73.js.map": "/Front_End_Projects/timerApp_react/static/js/main.d7a18f73.js.map",
+    "main.252e849d.js.map": "/Front_End_Projects/timerApp_react/static/js/main.252e849d.js.map",
     "787.880c8b13.chunk.js.map": "/Front_End_Projects/timerApp_react/static/js/787.880c8b13.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b0b09a5b.css",
-    "static/js/main.d7a18f73.js"
+    "static/js/main.252e849d.js"
   ]
 }
